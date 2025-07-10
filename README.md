@@ -1,1 +1,1 @@
-These contain simple projects of C program that I have made to undertand and learn the language
+These contain simple projects of C program that I have made while learning and understand C language.
